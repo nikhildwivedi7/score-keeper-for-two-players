@@ -1,4 +1,4 @@
-#Score Keeper
+# Score Keeper
 
 ## This is a score keeper for one on one(or team vs team) games like badminton, table tennis, tennis, etc.
 
